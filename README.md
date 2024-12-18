@@ -1,2 +1,2 @@
 # aplicativo-mobile
-aplicativo-mobile
+aplicativo-mobile com Expo
